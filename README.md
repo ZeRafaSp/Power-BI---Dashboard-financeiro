@@ -138,8 +138,7 @@ PowerBI-Dashboard-Analise-Financeira/
 
 ## 📷 Dashboard
 
-![Dashboard Financeiro]
-https://github.com/ZeRafaSp/Power-BI---Dashboard-financeiro/blob/main/screenshots/Dashboard%20financeiro.png
+![Dashboard Financeiro](screenshots/dashboard.png)
 ---
 
 ## 🚀 Como visualizar
