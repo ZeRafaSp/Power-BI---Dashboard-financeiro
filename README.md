@@ -140,6 +140,7 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
 ---
 
+
 ## 📂 Estrutura do Projeto
 
 ```
