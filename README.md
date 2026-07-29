@@ -132,6 +132,18 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
 ```
 
+```
+PowerBI-Dashboard-Analise-Financeira/
+│
+├── Dashboard_Analise_Financeira.pbix
+├── README.md
+├── dataset
+│   └── Base_Financeira.xlsx
+│
+└── screenshots
+    └── dashboard.png
+```
+
 ---
 
 ## 📷 Dashboard
@@ -139,8 +151,6 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 ![Dashboard Financeiro](screenshots/dashboard.png)
 
 ---
-
-
 
 ---
 
