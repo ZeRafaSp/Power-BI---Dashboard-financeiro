@@ -119,6 +119,26 @@ Este dashboard possibilita:
 - Apoiar decisões estratégicas por meio de indicadores financeiros.
 
 ---
+## ⭐ Aprendizados
+
+Durante o desenvolvimento deste projeto foram aplicados conceitos de:
+
+- Modelagem de dados
+- Construção de indicadores financeiros
+- Criação de medidas em DAX
+- Transformação de dados com Power Query
+- Desenvolvimento de dashboards interativos
+- Storytelling com dados
+
+```
+
+---
+
+## 📷 Dashboard
+
+![Dashboard Financeiro](screenshots/dashboard.png)
+
+---
 
 ## 📂 Estrutura do Projeto
 
@@ -132,13 +152,7 @@ PowerBI-Dashboard-Analise-Financeira/
 │
 └── screenshots
     └── dashboard.png
-```
 
----
-
-## 📷 Dashboard
-
-![Dashboard Financeiro](screenshots/dashboard.png)
 ---
 
 ## 🚀 Como visualizar
@@ -153,22 +167,10 @@ PowerBI-Dashboard-Analise-Financeira/
 
 **José Rafael Santos Pereira**
 
-Analista de Sistemas | Power BI | SQL | Python | Flutter | Business Intelligence
+Analista de Dados | Power BI | SQL | Python | Flutter | Business Intelligence
 
 
 GitHub: https://github.com/ZeRafaSp/
 
 LinkedIn: https://www.linkedin.com/in/rafaelsantospereirarsp/
 
----
-
-## ⭐ Aprendizados
-
-Durante o desenvolvimento deste projeto foram aplicados conceitos de:
-
-- Modelagem de dados
-- Construção de indicadores financeiros
-- Criação de medidas em DAX
-- Transformação de dados com Power Query
-- Desenvolvimento de dashboards interativos
-- Storytelling com dados
