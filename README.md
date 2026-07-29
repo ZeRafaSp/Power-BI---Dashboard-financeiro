@@ -141,18 +141,6 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 ---
 
 
-## 📂 Estrutura do Projeto
-
-```
-PowerBI-Dashboard-Analise-Financeira/
-│
-├── Dashboard_Analise_Financeira.pbix
-├── README.md
-├── dataset
-│   └── Base_Financeira.xlsx
-│
-└── screenshots
-    └── dashboard.png
 
 ---
 
