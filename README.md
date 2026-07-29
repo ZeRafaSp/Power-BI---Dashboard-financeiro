@@ -156,8 +156,9 @@ PowerBI-Dashboard-Analise-Financeira/
 
 Analista de Dados | Power BI | SQL | Python | Flutter | Business Intelligence
 
----
-
+GitHub: https://github.com/ZeRafaSp/
 
 LinkedIn: https://www.linkedin.com/in/rafaelsantospereirarsp/
+
+
 
